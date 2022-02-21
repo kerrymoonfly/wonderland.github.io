@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## This is an introduction for the webpage-wonderland
 
-You can use the [editor on GitHub](https://github.com/kerrymoonfly/wonderland.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+我最初没想要见Github,因为lofter总是限制我的文章和同人图作，所以想到以前有过做html网站的经历，于是想在这里建一个blog。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### What I will put in this resposiory?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+简而言之就是自己以前追过的无论漫画，动漫，电影感想啦~
 
-```markdown
-Syntax highlighted code block
+### What I have created in lofter?
 
-# Header 1
-## Header 2
-### Header 3
+-已经创作的短篇《樱桃鸡尾酒与米兰萨拉米》我会最先放上来
+-长篇1《大学之后》打算慢慢载入
+-长篇2《不了》，在更，也慢慢载入吧......
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kerrymoonfly/wonderland.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
