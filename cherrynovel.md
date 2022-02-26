@@ -3,7 +3,7 @@
 
 ---------- 
 <div style="float:right; background:#ECECFF；font-family:宋体 12px; font-color:#2F0000;">
-<a name="back"><h3>&emsp;目录</br></a>
+<a name="back"><h3>&emsp;目录<h3></br></a>
 <a href="#1">1</a></span>&emsp;&emsp;&emsp;<a href="#6">6</a></br>
 <a href="#2">2</a></span>&emsp;&emsp;&emsp;<a href="#7">7</a></br>
 <a href="#3">3</a></span>&emsp;&emsp;&emsp;<a href="#8">8</a></br>
@@ -21,7 +21,7 @@
 &emsp;&emsp;指在信息素相互吸引达到个人最大兴奋量值的另一半。通常天生注定，并存在于固定的α和对应Ω间。但我在文中不限定于命定伴侣一定是α-Ω，也可以是α-α，Ω-Ω，β-Ω，α-β。另外，β没有信息素，所以β-β得组合，无论BG/BL/GL，都是普通人类社会定义的爱情了。</br>
 <!--chapter 1-->
 <hr>
-<a name="1"><p><strong>⚪1&nbsp;(Come on！Let's start the story!)</strong></p></a>
+<a name="1"><p><h4>⚪1&nbsp;(Come on！Let's start the story!)</h4></p></a>
 <hr>
 &emsp;&emsp;“法-音，曼德拉·法音女士，你的开车路径太离谱了。如果白天被我碰上，驾照就直接吊销了。”已经下班4个小时出来兜风的交警希尔杜逮停了在高速路“肇事”逆行车车主，即使在海边这么大的吹拂下，鸡尾酒味依旧满车扑来。</br>
 &emsp;&emsp;怎么回事。希尔杜亮出交警工作证，“你什么情况。”</br>
@@ -59,7 +59,7 @@
 
 <!---chapter 2--->
 <hr>
-<a name="2"><p style="font-size: 16px;"><strong>⚪2&nbsp;(永远的樱桃鸡尾酒和米兰萨拉米_(:3><)_)_</strong></p></a>
+<a name="2"><p style="font-size: 16px;"><h4>⚪2&nbsp;(永远的樱桃鸡尾酒和米兰萨拉米_(:3><)_)_</h4></p></a>
 <hr>
 &emsp;&emsp;“你对自己发出费洛蒙有感觉么。”</br>
 &emsp;&emsp;“没有。”</br>
@@ -132,7 +132,7 @@
 
 <!---chapter 3--->
 <hr>
-<a name="3"><p id="chapter3" style="font-size: 16px;"><strong>⚪3&nbsp;(吃货人设是永远不会改变的！)</strong></p></a>
+<a name="3"><p id="chapter3" style="font-size: 16px;"><h4>⚪3&nbsp;(吃货人设是永远不会改变的！)</h4></p></a>
 <hr>
 &emsp;&emsp;好像今天才有机会正视这个女性。红头发，眼睛一个色，皮肤很白。这样看她简直像卡通人物，卡通人物都没有她这样鲜明。</br>
 &emsp;&emsp;希尔杜也学着法音囫囵吞下几口披萨，但马上被噎得找水喝。看到旁边女人的吃相他才意识到原来一个披萨有那么好吃。</br>
@@ -197,7 +197,7 @@
 
 <!--chapter 4-->
 <hr>
-<a name="4"><p id="chapter4"style="font-size: 16px;"><strong>⚪4&nbsp;(奥尔多月老大人操碎心💔)</strong></p></a>
+<a name="4"><p id="chapter4"style="font-size: 16px;"><h4>⚪4&nbsp;(奥尔多月老大人操碎心💔)</h4></p></a>
 <hr>
 &emsp;&emsp;“抱歉，莲音…她找到能够支持自己普通生活的α了，她不需要摘除腺体也也不需要特效抑制剂了。”</br>
 &emsp;&emsp;一场天雷打在星期一抽空旷班来实验室监护的市交管局参谋长希尔杜和Ω研究院奥尔多博士身上。</br>
@@ -255,7 +255,7 @@
 
 <!--chapter 5-->
 <hr>
-<a name="5"><p id="chapter5" style="font-size: 16px;"><strong>⚪5&nbsp;(我也冷静冷静...¬_¬)</strong></p></a>
+<a name="5"><p id="chapter5" style="font-size: 16px;"><h4>⚪5&nbsp;(我也冷静冷静...¬_¬)</h4></p></a>
 <hr>
 &emsp;&emsp;冷静下来确实要重新考虑一时之间的愚蠢行为是不是因为费洛蒙产生影响。</br>
 &emsp;&emsp;“原来你连她电话号码都没有？”她断联了。连激素提取质检都没做，希尔杜真的只空花钱赞助了本来就资金充足的研究所。</br>
@@ -303,7 +303,7 @@
 
 <!--chapter 6-->
 <hr>
-<a name="6"><p id="chapter6" style="font-size: 16px;"><strong>⚪6&nbsp;(希尔杜最大对手出场！鼓掌！)</strong></p></a>
+<a name="6"><p id="chapter6" style="font-size: 16px;"><h4>⚪6&nbsp;(希尔杜最大对手出场！鼓掌！)</h4></p></a>
 <hr>
 &emsp;&emsp;“你的草莓缤纷圣代……”</br>
 &emsp;&emsp;伸去一半手忽然酸软无力，法音眼见手里圣代就要滑下去，幸好顾客把手机反拍在前台连忙接过，好听声音在耳边响起，</br>
@@ -389,7 +389,7 @@
 
 <!--chapter 7-->
 <hr>
-<a name="7"><p id="chapter7" style="font-size: 16px;"><strong>⚪7&nbsp;(一个必要的过渡章节......)</strong></p></a>
+<a name="7"><p id="chapter7" style="font-size: 16px;"><h4>⚪7&nbsp;(一个必要的过渡章节......)</h4></p></a>
 <hr>
 &emsp;&emsp;（案件不是文章的主要情节，α和Ω属性才是）</br>
 &emsp;&emsp;问题到底出在哪。</br>
@@ -442,7 +442,7 @@
 
 <!--chapter 8-->
 <hr>
-<a name="8"><p id="chapter8" style="font-size: 16px;"><strong>⚪8&nbsp;(有狗血才有欢乐噗~)</strong></p></a>
+<a name="8"><p id="chapter8" style="font-size: 16px;"><h4>⚪8&nbsp;(有狗血才有欢乐噗~)</h4></p></a>
 <hr>
 &emsp;&emsp;“你知道女性α在没做第二性剔除前其实是双性人么。”米露琪后抱住法音。陪她打夜工客人少，她顺理成章就可以和法音亲亲抱抱。</br>
 &emsp;&emsp;“就是说你也有男性生殖功能么。”三天6小时以上和米露琪保持5米内距离，法音终于稍微对米露琪费洛蒙产生耐性。就算不产生，她发作症也仅是瞌睡，比起之前昏睡在公路，这种轻微发作症甚至都不纳入Ω考虑范围。</br>
@@ -494,7 +494,7 @@
 
 <!--chapter 9-->
 <hr>
-<a name="9"><p id="chapter9" style="font-size: 16px;"><strong>⚪9&nbsp;(要结尾了欸)</strong></p></a>
+<a name="9"><p id="chapter9" style="font-size: 16px;"><h4>⚪9&nbsp;(要结尾了欸)</h4></p></a>
 <hr>
 &emsp;&emsp;人生处处是惊喜，人生处处是惊吓。</br>
 &emsp;&emsp;希尔杜面色忧愁坐在警车里。奥尔多口中那些没用的公安在希尔杜提出猜想后重新调整调查方向顺水推舟就找到案发两天前驶进隧道便再没出来的摩托。</br>
@@ -584,7 +584,7 @@
 
 <!--chapter 10-->
 <hr>
-<a name="10"><p id="chapter10" style="font-size: 16px;"><strong>⚪10&nbsp;(在一起在一起！>v<)</strong></p></a>
+<a name="10"><p id="chapter10" style="font-size: 16px;"><h4>⚪10&nbsp;(在一起在一起！>v<)</h4></p></a>
 <hr>
 &emsp;&emsp;特种部队授权射击？并没有，越权办事的希尔杜已经提前打电话报备母亲拿钱办事。</br>
 &emsp;&emsp;他是真的想要辞职。他盯着在浴缸内熟睡的“待受害者”Ω女性，就这样半匍在浴缸里看。</br>
