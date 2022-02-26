@@ -4,14 +4,14 @@
 ---------- 
 <div style="float:right; background:#ECECFF；font-family:宋体 12px; font-color:#2F0000;">
 <a name="back"><h3>&emsp;目录<h3></a>
-<a href="#1">1</a>&emsp;&emsp;&emsp;<a href="#6">6</a></br>
-<a href="#2">2</a>&emsp;&emsp;&emsp;<a href="#7">7</a></br>
-<a href="#3">3</a>&emsp;&emsp;&emsp;<a href="#8">8</a></br>
-<a href="#4">4</a>&emsp;&emsp;&emsp;<a href="#9">9</a></br>
-<a href="#5">5</a>&emsp;&emsp;&emsp;<a href="#10">10</a>
-</br>
 </div>
-</h3>
+<a href="#1"><strong>1</strong></a>&emsp;&emsp;&emsp;<a href="#6"><strong>6</strong></a></br>
+<a href="#2"><strong>2</strong></a>&emsp;&emsp;&emsp;<a href="#7"><strong>7</strong></a></br>
+<a href="#3"><strong>3</strong></a>&emsp;&emsp;&emsp;<a href="#8"><strong>8</strong></a></br>
+<a href="#4"><strong>4</strong></a>&emsp;&emsp;&emsp;<a href="#9"><strong>9</strong></a></br>
+<a href="#5"><strong>5</strong></a>&emsp;&emsp;&emsp;<a href="#10"><strong>10</strong></a>
+</br></br>
+
 &nbsp;（注：米兰萨拉米是意大利一种牛肉制成的肉肠）</br>
 &nbsp;请了解一下初设定：ABO—α、β、Ω</br>
 &nbsp;①社会总人口= 15%α(A) +80%β(B) +5%Ω(O)</br>
